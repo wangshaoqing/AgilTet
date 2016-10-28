@@ -7,7 +7,7 @@ import junit.framework.TestCase;
 
 public class Agiltest extends TestCase {
 	public static void main(String[] args) {
-		// System.out.print("hello");
+		System.out.print("hello");
 
 		SplitInt(10000);
 
