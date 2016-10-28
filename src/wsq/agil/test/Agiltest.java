@@ -1,7 +1,6 @@
 package wsq.agil.test;
 
-import java.awt.List;
-import java.util.ArrayList;
+
 
 import junit.framework.TestCase;
 
